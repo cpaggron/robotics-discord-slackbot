@@ -1,4 +1,4 @@
-# Team 2102 Discord Slackbot
+# Discord of a Slackbot I Made For My Robotics Team
 Idea I got while #slacking-off
 
 
